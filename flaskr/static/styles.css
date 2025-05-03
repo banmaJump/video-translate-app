@@ -237,7 +237,7 @@ h2 {
 }
 
 textarea {
-    padding: 15px 10px 0;
+    padding: 10px;
     border: 1px solid #ccc;
     border-radius: 3px;
     font-size: 16px;
@@ -331,6 +331,7 @@ button:hover {
 
     textarea {
         font-size: 14px;
+        padding: 15px 10px 0;
     }
 
     button {
